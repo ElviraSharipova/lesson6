@@ -1,0 +1,14 @@
+.my-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    list-style: none;
+    background-color: #680BAB;
+    min-height: 100px;
+    padding: 20px 30px;
+}
+
+.my-nav a {
+    text-decoration: none;
+}
